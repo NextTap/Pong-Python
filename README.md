@@ -1,8 +1,8 @@
-• Pong Game:
+## Pong Game:
 
   This is a simple Pong game implemented using the Pyxel game engine. It allows two players to compete against each other by controlling paddles and trying to hit the ball past their opponent.
 
-The game will start with a menu screen :
+## The game will start with a menu screen :
 
   • Press the SPACE key to begin playing.
 
@@ -20,11 +20,10 @@ The game will start with a menu screen :
 
   • To restart the game after it ends, press the SPACE key.
 
+## License
 
-• Acknowledgments :
+This project is licensed under the [MIT License](LICENSE).
 
-  This Pong game was created by Jules Vialas. It is based on the Pyxel library, developed by Takashi Kitao. Pyxel is a retro game engine for Python that provides a simple way to create small pixelated games.
+## Acknowledgements
 
-License :
-
-  This project is licensed under the MIT License.
+- This game was developed using the [Pyxel](https://github.com/kitao/pyxel) library.
